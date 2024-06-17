@@ -1,4 +1,4 @@
-# Zscaler Demo Scenario
+# Zscaler Demo Scenario2
 ## Prequisite
 - Prepare following Zscaler licenses
     - Zscaler Internet Access license
